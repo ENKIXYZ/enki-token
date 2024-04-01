@@ -1,0 +1,9 @@
+{
+  "name": "enki-token",
+  "devDependencies": {
+    "@openzeppelin/contracts": "3.1.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.20.1"
+  }
+}
